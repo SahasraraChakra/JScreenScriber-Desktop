@@ -6,10 +6,10 @@ Screenplay writing app: Java Swing + FlatLaf, Fountain format, A4/Letter page vi
 ## Screens
 
 ### Light Mode
-![Light Mode](screens\v6-lightMode.png)
+![Light Mode](screens/v6-lightMode.png)
 
 ### Dark Mode
-![Dark Mode](screens\v6-darkMode.png)
+![Dark Mode](screens/v6-darkMode.png)
 
 
 ## Build & run

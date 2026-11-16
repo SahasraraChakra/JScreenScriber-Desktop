@@ -1,0 +1,2 @@
+Main-Class: com.jscreenscriber.Main
+Enable-Native-Access: ALL-UNNAMED

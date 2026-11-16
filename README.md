@@ -3,9 +3,9 @@
 Screenplay writing app: Java Swing + FlatLaf, Fountain format, A4/Letter page view and print.
 
 #### Note : Vibe Coded, In-Development - Bugs may exist - Report!!!
-[![Status: In Build](https://shields.io)
-[![Status: WIP](https://shields.io) 
-[![Stage: Alpha](https://shields.io)  
+![Status: In Build](https://shields.io)
+![Status: WIP](https://shields.io) 
+![Stage: Alpha](https://shields.io)  
 
 ## ❤️ Support This Project
 
@@ -23,7 +23,7 @@ its continued development!
 
 Scan this QR code using Google Pay, PhonePe or Paytm.
 
-![UPI Donation QR](assets/donate/upi-qr.png)
+![UPI Donation QR](donate/upi-qr.png)
 
 Thank you for supporting open-source development!
 

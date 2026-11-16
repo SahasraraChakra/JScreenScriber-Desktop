@@ -2,6 +2,16 @@
 
 Screenplay writing app: Java Swing + FlatLaf, Fountain format, A4/Letter page view and print.
 
+
+## Screens
+
+### Light Mode
+![Light Mode](screens\v6-lightMode.png)
+
+### Dark Mode
+![Dark Mode](screens\v6-darkMode.png)
+
+
 ## Build & run
 Double-click `JScreenScriber.vbs` to launch without a console (uses the `javaw` on your PATH; `.jar` double-click depends on Windows' file association, which may point to an older Java).
 If the jar does nothing when double-clicked, run `run.bat` (shows the console). Startup errors are also shown in a dialog and saved to `%USERPROFILE%\.jscreenscriber\error.log`.

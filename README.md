@@ -1,6 +1,41 @@
-# JScreenScriber
+# JScreenScriber Desktop Edition
 
 Screenplay writing app: Java Swing + FlatLaf, Fountain format, A4/Letter page view and print.
+
+#### Note : Vibe Coded, In-Development - Bugs may exist - Report!!!
+[![Status: In Build](https://shields.io)
+[![Status: WIP](https://shields.io) 
+[![Stage: Alpha](https://shields.io)  
+
+## ❤️ Support This Project
+
+If you enjoy using this software, you can support
+its continued development!
+
+### 🍕 Buy Me a Pizza  <a href="https://buymeacoffee.com/sahasrarachakra?l=en">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+       height="50">
+</a>
+
+
+## If you are an Indian Supporter
+### 🇮🇳 Support via UPI
+
+Scan this QR code using Google Pay, PhonePe or Paytm.
+
+![UPI Donation QR](assets/donate/upi-qr.png)
+
+Thank you for supporting open-source development!
+
+
+## Screens
+
+### Light Mode
+![Light Mode](screens/v6-lightMode.png)
+
+### Dark Mode
+![Dark Mode](screens/v6-darkMode.png)
+
 
 ## Build & run
 Double-click `JScreenScriber.vbs` to launch without a console (uses the `javaw` on your PATH; `.jar` double-click depends on Windows' file association, which may point to an older Java).

@@ -2,6 +2,8 @@
 
 Screenplay writing app: Java Swing + FlatLaf, Fountain format, A4/Letter page view and print.
 
+#### Note : Vibe Coded, In-Development - Bugs may exist - Report!!!
+![Status: In Build](https://shields.io) ![Status: WIP](https://shields.io)  ![Stage: Alpha](https://shields.io)  
 
 ## Screens
 
